@@ -1,0 +1,6 @@
+Breve explicacion de los codigos.
+
+Script MoverSombras, RotarImagen, Menu principal: Gestiona el menu de inicio, seleccion de opciones y efectos artisticos del mismo.
+Script camaras: Controla las distintas camaras de control puestas en la escena.
+Script Conducir: Entrega las propiedades esenciales y propias de un auto.
+Script salir: Nos permite quitar el juego desde el menu de inicio. 

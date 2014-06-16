@@ -1,0 +1,4 @@
+Explicación Scripts.
+
+Controlar_Semaforos: Controla movimiento realista de los semaforos, cambio de colores, tiempo de cambio, etc.
+Seguir: Este script asigna la ruta del trafico adicional.

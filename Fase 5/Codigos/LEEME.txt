@@ -1,0 +1,7 @@
+Explicacion Codigos:
+
+AnimTriggers: Selecciona que animación se ocupara sobre el modelo de acuerdo a la combinacion de teclas que se utilice. Ejemplo, al presionar hacia delante en el teclado, el cuerpo camina hacia esa direccion.
+
+BotControlScript: Da caracteristicas fisicas al cuerpo del modelo, tales como velocidad, colision y peso.
+
+ThirdPersonCamera: Controla una camara que sigue al cuerpo en movimiento en todo momento.

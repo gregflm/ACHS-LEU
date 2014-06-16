@@ -1,0 +1,7 @@
+Explicacion Codigos.
+
+Antialising: Aplica correcciones graficas al mundo, quita dientes de sierra y elimina bugs graficos. Mejora el aspecto grafico al menos 4 veces.
+
+Invisible: Hace invisible la ruta para los modelos/personas durante la ejecucion del simulador.
+
+Seguir: Le indica a los modelos/personas que sigan una ruta derterminada.
